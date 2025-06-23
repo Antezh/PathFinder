@@ -1,3 +1,6 @@
+/**
+ * @author Andreas Hagenstam
+ */
 import javafx.event.EventHandler;
 import javafx.scene.input.MouseEvent;
 

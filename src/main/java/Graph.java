@@ -1,3 +1,6 @@
+/**
+ * @author Andreas Hagenstam
+ */
 import java.util.Collection; // Import för att använda Collection, en övergripande interface för samlingar (t.ex.
 // List och Set)
 import java.util.List; // Import för att använda List, en ordnad samling av element

@@ -1,6 +1,6 @@
-// PROG2 VT2024, Inlämningsuppgift, del 1
-// Grupp 100
-// Andreas Hagenstam anha3549
+/**
+ * @author Andreas Hagenstam
+ */
 
 import java.io.Serializable; // Gör det möjligt att spara objekt till fil (serialisering)
 

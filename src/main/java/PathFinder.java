@@ -1,7 +1,6 @@
-// PROG2 VT2024, Inlämningsuppgift, del 2
-// Grupp 100
-// Andreas Hagenstam anha3549
-
+/**
+ * @author Andreas Hagenstam
+ */
 import javafx.application.Application;
 import javafx.embed.swing.SwingFXUtils;
 import javafx.event.ActionEvent;
